@@ -110,5 +110,4 @@ https://www.figma.com/design/ODLD6WT6YKTRYkbcbpw7mE/Potholio?node-id=0-1&p=f&t=H
 ---
 
 ## Life Demo
-
-potholio.vercel.app
+[potholio.vercel.app](https://potholio.vercel.app/)
